@@ -446,7 +446,7 @@ ol {
 }
 
 .hero__items {
-	padding: 250px 0 42px 50px;
+	/*padding: 250px 0 42px 50px;*/
 	border-radius: 5px;
 }
 
@@ -2134,7 +2134,7 @@ ol {
 
 /* Wide Mobile = 480px */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 467px) {
 	.hero {
 		overflow: hidden;
 	}
@@ -2280,7 +2280,7 @@ ol {
 		display: none;
 	}
 	.hero__items {
-		padding: 250px 0 42px 15px;
+		/*padding: 250px 0 42px 15px;*/
 	}
 	.hero__text h2 {
 		font-size: 32px;
